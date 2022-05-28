@@ -61,11 +61,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 1
-    - _BurnEdgeLength: 0.069
+    - _BurnEdgeLength: 0.047
     - _CharColorFactor: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _DissolveFactor: 0.443
+    - _DissolveFactor: 0.342
     - _DstBlend: 0
     - _EmberColorFactor: 3
     - _GlossMapScale: 1

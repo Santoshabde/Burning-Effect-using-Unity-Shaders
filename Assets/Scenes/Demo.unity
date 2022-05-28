@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 287979231}
   - component: {fileID: 287979230}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: Paper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
